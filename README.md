@@ -24,16 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikxya09&" alt="dikxya09" /></p>
 
-💻 Programming
-Python (NumPy, Pandas, Matplotlib, Seaborn)
-📊 Data Science
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Data Interpretation & Insight Generation
-📈 Data Visualization
-Matplotlib
-Seaborn
-⚙️ Tools
-SQL (Basic Queries)
-Jupyter Notebook
-Git & GitHub
