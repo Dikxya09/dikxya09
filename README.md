@@ -13,10 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dikshya-thapa-7b1105320/)
+<a href="https://www.linkedin.com/in/dikshya-thapa-7b1105320/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/dikshya.thapa.36)
-</p>
+<a href="https://www.facebook.com/dikshya.thapa.36">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30"/>
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikxya09&show_icons=true&locale=en&layout=compact" alt="dikxya09" /></p>
 
