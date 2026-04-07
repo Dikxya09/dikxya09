@@ -23,3 +23,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikxya09&show_icons=true&locale=en" alt="dikxya09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikxya09&" alt="dikxya09" /></p>
+
+💻 Programming
+Python (NumPy, Pandas, Matplotlib, Seaborn)
+📊 Data Science
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Data Interpretation & Insight Generation
+📈 Data Visualization
+Matplotlib
+Seaborn
+⚙️ Tools
+SQL (Basic Queries)
+Jupyter Notebook
+Git & GitHub
