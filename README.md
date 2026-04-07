@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikxya09&label=Profile%20views&color=0e75b6&style=flat" alt="dikxya09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱**I'm Currently expanding my knowledge in statistics, machine learning fundamentals, and data visualization tools like Excel and Power BI. Passionate about solving real-world problems through analytical thinking and continuous learning.**
 - Open to Data Science & Data Analyst internship opportunities.
