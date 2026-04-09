@@ -1,25 +1,66 @@
 <h1 align="center">Hi 👋, I'm Dikshya Thapa</h1>
-<h3 align="center">Aspiring Data Scientist from Nepal</h3>
+<h3 align="center">🌍 Aspiring Data Scientist from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikxya09&label=Profile%20views&color=0e75b6&style=flat" alt="dikxya09" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dikxya09&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+---
 
-- 🌱**I'm Currently expanding my knowledge in statistics, machine learning fundamentals, and data visualization tools like Excel and Power BI. Passionate about solving real-world problems through analytical thinking and continuous learning.**
-- Open to Data Science & Data Analyst internship opportunities.
+## 👩‍💻 About Me  
 
+Aspiring **Data Scientist** with strong foundational skills in **Python, Data Cleaning, EDA, and Data Visualization**.  
+Passionate about extracting insights from data and solving real-world problems through analytical thinking.  
+
+- 🌱 Currently learning **Statistics & Machine Learning**  
+- 📊 Skilled in **Data Analysis & Visualization**  
+- 🚀 Open for **Data Science**
 - 📫 How to reach me **thapadikshya006@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ My Toolbox  
+
 <p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dikshya-thapa-7b1105320/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/dikshya.thapa.36)
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikxya09&show_icons=true&locale=en&layout=compact" alt="dikxya09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikxya09&show_icons=true&locale=en" alt="dikxya09" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikxya09&" alt="dikxya09" /></p>
+## 📈 GitHub Stats  
 
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikxya09)
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dikshya-thapa-7b1105320/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" style="color:#0077B5"/>
+</a>
+
+<a href="https://www.facebook.com/dikshya.thapa.36" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="30" style="color:#1877F2"/>
+</a>
+
+<a href="https://www.instagram.com/deekxya__36/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" style="color:#E4405F"/>
+</a>
+
+</p>
+---
+
+⭐ **"Turning data into insights, and insights into impact."**
