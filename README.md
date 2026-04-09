@@ -61,6 +61,5 @@ Passionate about extracting insights from data and solving real-world problems t
 </a>
 
 </p>
----
 
 ⭐ **"Turning data into insights, and insights into impact."**
