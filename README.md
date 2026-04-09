@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dikshya Thapa</h1>
+<Hi 👋, I'm Dikshya Thapa
 <h3 align="center">Aspiring Data Scientist from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikxya09&label=Profile%20views&color=0e75b6&style=flat" alt="dikxya09" /> </p>
